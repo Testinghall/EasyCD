@@ -1,1 +1,1 @@
-https://github.com/Testinghall/EasyCD/blob/main/test.gif?raw=true
+![Демонстрация работы проекта](https://raw.githubusercontent.com/Testinghall/EasyCD/refs/heads/main/test.gif)
