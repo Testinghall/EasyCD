@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: EasyCD
+## Notes: тестовый счетччик кд с дробной частью
+## Version: 1.41
+## Testinghall
+
+EasyCD.lua
